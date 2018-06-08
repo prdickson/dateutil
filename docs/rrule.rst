@@ -3,11 +3,22 @@ rrule
 =====
 
 .. automodule:: dateutil.rrule
-   :members:
    :undoc-members:
+
+Classes
+-------
+
+.. autoclass:: rrule
+.. autoclass:: rruleset
+
+Functions
+---------
+
+.. autofunction:: rrulestr
 
 rrule examples
 --------------
+
 These examples were converted from the RFC.
 
 Prepare the environment.
